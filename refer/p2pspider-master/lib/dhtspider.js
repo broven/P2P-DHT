@@ -1,3 +1,6 @@
+/**
+DHT协议的实现
+**/
 'use strict'
 
 var dgram = require('dgram');

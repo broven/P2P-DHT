@@ -1,3 +1,6 @@
+/**
+ * 存储peer信息
+ */
 'use strict';
 
 var PeerQueue = function (maxSize, perLimit) {
