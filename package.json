@@ -1,0 +1,28 @@
+{
+  "name": "p2p",
+  "version": "1.0.0",
+  "description": "a cawler based on P2P&DHT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broven/P2P-DHT.git"
+  },
+  "keywords": [
+    "p2p",
+    "cawler",
+    "dht"
+  ],
+  "author": "broven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broven/P2P-DHT/issues"
+  },
+  "homepage": "https://github.com/broven/P2P-DHT#readme",
+  "dependencies": {
+    "bittorrent-dht": "^7.3.0",
+    "magnet-uri": "^5.1.4"
+  }
+}
